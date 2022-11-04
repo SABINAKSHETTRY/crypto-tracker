@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');
+body {
+  margin: 0;
+  font-family: 'Mukta', sans-serif;
+  background-color: #354259;
+  font-weight: 600;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
